@@ -33,4 +33,4 @@ The bot is built using Python and the [**pyTelegramBotAPI**](https://pypi.org/pr
 Contributions to this project are always welcome. If you find a bug or have an idea for a new feature, please open an issue on the GitHub repository or create a pull request.
 
 License
-This project is licensed under the MIT License - see the **LICENSE.md** file for details.
+This project is licensed under the MIT License - see the [**LICENSE.md**](https://github.com/BohdanNosenko/PDF2MP3_TelegramBot/blob/master/LICENCE.md) file for details.
