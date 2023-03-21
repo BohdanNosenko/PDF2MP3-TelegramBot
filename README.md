@@ -27,7 +27,7 @@ The bot is built using Python and the [**pyTelegramBotAPI**](https://pypi.org/pr
 1. Clone the repository to your local machine.
 2. Install the required libraries using
 ```python
-pip install -r requirements.txt**'
+pip install -r requirements.txt
 ```
 3. Create '**.env**' file in bot directory and put there your bot token.
 4. To start the bot run
