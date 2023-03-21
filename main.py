@@ -21,7 +21,7 @@ done = False
 @bot.message_handler(commands=['start', 'help'])
 def send_wellcome(message):
     bot.reply_to(message, 'Sup?')
-    doc = open('Cat03.jpg', 'rb')
+    doc = open('images\\Cat03.jpg', 'rb')
     bot.send_photo(message.chat.id, doc)
     bot.send_message(message.chat.id, "Send me some PDFs and I'll voice them over to an MP3 file!")
 
