@@ -1,6 +1,6 @@
 # PDF2MP3-TelegramBot
 
-![logo](/logo.png)
+![logo](/images/logo.png)
 
 This is a Telegram bot that allows users to convert PDF documents into MP3 audio files. It is particularly useful for people who want to listen to long documents or books but don't have the time or ability to read them.
 
@@ -40,4 +40,4 @@ python main.py
 Contributions to this project are always welcome. If you find a bug or have an idea for a new feature, please open an issue on the GitHub repository or create a pull request.
 
 License
-This project is licensed under the MIT License - see the [**LICENSE.md**](/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [**LICENSE**](/LICENSE) file for details.
