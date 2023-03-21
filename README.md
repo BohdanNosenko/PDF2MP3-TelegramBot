@@ -23,14 +23,19 @@ The bot is built using Python and the [**pyTelegramBotAPI**](https://pypi.org/pr
 ## Installation
 
 1. Clone the repository to your local machine.
-2. Create a new virtual environment and activate it.
-3. Install the required libraries using '**pip install -r requirements.txt**'.
-4. Create '**.env**' file in bot directory and put there your bot token.
-5. Run '**python main.py**' to start the bot.
+2. Install the required libraries using
+```python
+pip install -r requirements.txt**'
+```
+3. Create '**.env**' file in bot directory and put there your bot token.
+4. To start the bot run
+```python
+python main.py
+```
 
 ## Contributing
 
 Contributions to this project are always welcome. If you find a bug or have an idea for a new feature, please open an issue on the GitHub repository or create a pull request.
 
 License
-This project is licensed under the MIT License - see the [**LICENSE.md**](https://github.com/BohdanNosenko/PDF2MP3_TelegramBot/blob/master/LICENCE.md) file for details.
+This project is licensed under the MIT License - see the [**LICENSE.md**](/LICENSE.md) file for details.
