@@ -1,6 +1,9 @@
 # PDF2MP3-TelegramBot
 
-![logo](/images/logo.png) ![qr](/images/qr.jpeg)
+<p align="middle">
+  <img src="/images/logo.png" width="100" />
+  <img src="/images/qr.jpeg" width="100" /> 
+</p>
 
 This is a Telegram bot that allows users to convert PDF documents into MP3 audio files. It is particularly useful for people who want to listen to long documents or books but don't have the time or ability to read them.
 
